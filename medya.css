@@ -1,0 +1,24 @@
+.medya{
+    display:flex;
+    align-items:center;
+}
+
+video{
+    margin:10px 80px;
+    width:30rem;
+    display:flex;
+}
+
+.medya h2{
+    padding:15px;
+    border-bottom:5px solid black;
+}
+
+body{
+    background-image:url(./görüntü/world.jpg);
+}
+
+.medya-h2{
+    text-align:center;
+    margin:20px 0px 0px 0px;
+}
